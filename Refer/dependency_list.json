@@ -1,0 +1,10 @@
+{
+    "services_list":    ["DB", "WF", "Rating", "Docgen", "UIUX"],
+    "dependency_list":  {
+        "DB": [],
+        "WF": ["DB"],
+        "Rating": [],
+        "Docgen": [],
+        "UIUX": ["DB"]
+    } 
+}

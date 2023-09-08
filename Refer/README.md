@@ -7,7 +7,6 @@ This is the service deployer to install services wich ar requested by PMT throug
 =========================
 
 URL: http://<IP>:5001/firstsubmit
-Header["Tokens"]: "<PMT Token>"
 Input data: '{
                 "customer_name": "text",
                 "owner_id": "18",
@@ -25,7 +24,6 @@ Response data: '{
 ===================================
 
 URL: http://<IP>:5001/getstatus
-Header["Tokens"]: "<PMT Token>"
 Input data: '{
                 "customer_name": "text",
                 "owner_id": "18",

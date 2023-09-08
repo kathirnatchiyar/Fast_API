@@ -1,0 +1,28 @@
+{
+  "ownerId": "<Numeric>",
+  "customerName": "<string>",
+  "customerType": "<ISO/NONISO>",
+  "sessionUser": "<string>",
+  "datetime": "<datetime>",
+  "lob": "<string>",
+  "transdb": " <Yes/No>",
+  "uiux": "<Yes/No>",
+  "wf": "<Yes/No>",
+  "rating": "<Yes/No>",
+  "reportingdb": "<Yes/No>"
+}
+
+{
+  "ownerid": "<Numeric>",
+  "customername": "<string>",
+  "customer type": "<ISO/NONISO>",
+  "sessionUser": "<string>",
+  "datetime": "<datetime>",
+  "lob": "<string>",
+  "required_services": [ "transdb", "uiux", "wf", "rating", "reportingdb" ]
+}
+
+
+  
+  
+ 
